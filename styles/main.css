@@ -1,1 +1,38 @@
-<!-- In this file you are going to write the CSS code -->
+*
+{    
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;   
+}
+
+.nav-bar
+{
+    background-color: rgba(134, 133, 133, 0.7); 
+    height: 50px;  
+    width: 100%;
+}
+
+#nav_list
+{
+    float: right;
+    margin: 5px;
+    margin-right: 10%;
+}
+
+nav ul 
+{
+    display: inline-block;     
+    margin-right: 20%; 
+} 
+nav ul li 
+
+{
+    color: rgba(7, 7, 7, 0.7);
+    height: 80px;
+    margin: 0%;
+    display: inline-block;
+    padding-left: 10px;
+    font-family: cursive;
+    padding-top: 3%;
+}
+
